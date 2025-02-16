@@ -1,2 +1,5 @@
 # Dictionary
-Making a Dictionary Using the Program "Thonny"
+MAKING A DICTIONARY USING THE PROGRAM "THONNY"
+
+VIDEO OF THE ACTIVITY
+https://youtu.be/JxqQDZIvaas
